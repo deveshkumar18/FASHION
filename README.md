@@ -26,3 +26,4 @@ Static Web Apps, Static Web Apps,
 
 Other Azure Technologies:
 no
+![image](https://user-images.githubusercontent.com/100397972/175234182-ff268257-5187-4130-aa21-15279086348f.png)
