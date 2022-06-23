@@ -1,6 +1,8 @@
 # FASHION
 THIS IS MY PROJECT FOR FUTURE READY TALENT INTERNSHIP PROGRAM.
 
+## website link:- https://nice-sand-01c6db810.1.azurestaticapps.net/
+
 ## Industry :
 Lifestyle
 
