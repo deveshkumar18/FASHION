@@ -34,6 +34,14 @@ Static Web Apps, Static Web Apps,
 
 ## use of technology 
 A Static Web Application is any web application that can be delivered directly to an end user's browser without any server-side alteration of the HTML, CSS, or JavaScript content.
+What are the uses of static Web page?
+Image result for what is the use of static web app in website
+Uses of Static Website
+Blogs. Blogs are websites built based on a specific theme, and all the contents of the websites are treated as individual posts under precise topics for the website's theme. ...
+Marketing & Sales Websites. ...
+Websites Under-Development. ...
+Autonomous Domestic Websites
+Static applications and websites render in the user's browser without the need for server side processing, this means that all the rendering of HTML, CSS, and JavaScript is done on the client side, rather then relying on server side technologies.
 
 ## Other Azure Technologies:
 no
