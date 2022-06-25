@@ -45,9 +45,11 @@ Static applications and websites render in the user's browser without the need f
 
 ## Other Azure Technologies:
 no
+
+
 ![image](https://user-images.githubusercontent.com/100397972/175234182-ff268257-5187-4130-aa21-15279086348f.png)
 
-
+## SS OF MY WEBSITE:- 
 ![Screenshot (25)](https://user-images.githubusercontent.com/100397972/175234541-bde41925-264c-478d-8aed-4705235dfaf1.png)
 
 
