@@ -26,6 +26,9 @@ and sellers.like for sellers i created a beautiful design that attract customer.
 ## Primary Azure Technology*:
 Static Web Apps, Static Web Apps,
 
+## use of technology 
+A Static Web Application is any web application that can be delivered directly to an end user's browser without any server-side alteration of the HTML, CSS, or JavaScript content.
+
 ## Other Azure Technologies:
 no
 ![image](https://user-images.githubusercontent.com/100397972/175234182-ff268257-5187-4130-aa21-15279086348f.png)
