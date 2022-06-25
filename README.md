@@ -1,14 +1,20 @@
-# FASHION
+# FASHION STORE WEBSITE
+
 THIS IS MY PROJECT FOR FUTURE READY TALENT INTERNSHIP PROGRAM.
 
-## website link:- https://nice-sand-01c6db810.1.azurestaticapps.net/
+## website link:-
+https://nice-sand-01c6db810.1.azurestaticapps.net/
 
-## Industry :
+## video url 
+https://user-images.githubusercontent.com/100397972/175755262-7d042915-b37c-4c0d-8a63-888bf5d2ac71.mp4
+
+## industry :
 Lifestyle
 
-## Web Technologies used: HTML, CSS, JS,
+## Web Technologies used: 
+HTML, CSS, JS,
 
-## Project Title*:
+## Project Title:
 fashion store website
 
 ## Problem Statement/Opportunity*:
